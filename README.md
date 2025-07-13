@@ -1,8 +1,12 @@
 
 🚀 Power BI Internship Summary — Blinkit Sales Data Analysis
+
+
 During my 3-month internship under Classroom Tech, I worked on a comprehensive data analysis project using Power BI. The goal was to extract actionable insights from Blinkit's sales data spread across multiple structured files. Here’s a summary of what I accomplished:
 
 ✅ Key Activities & Deliverables:
+
+
 🧹 Data Cleaning & Transformation
 
 Used Power Query Editor to clean, reshape, and merge datasets.
